@@ -1,0 +1,3 @@
+1. I used Python language on a server side. The reason is that Python has a very simple and 'quickly learn' syntax, it has a high performance and it is very suitable for a fast development.
+2. I know that PHP is an OOP(at least last versions) scripting language, it is mostly used in a web development. It has a great capabilities to work with HTML markup and can be embedded into there.
+3. Tornado, Django
